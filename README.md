@@ -17,7 +17,7 @@ real-time decisions: **Allow**, **Challenge**, or **Block**.
 
 - Cloudflare account with Workers enabled
 - Any website behind Cloudflare
-- IPIntel.ai API key
+- IPIntel.ai API key (obtain from https://ipintel.ai)
 
 ## Installation
 
