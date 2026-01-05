@@ -1,6 +1,7 @@
 # IPIntel Cloudflare Worker
 
 Behavior-based bot protection at the Cloudflare edge using IPIntel.ai.
+Helps to stop fake traffic, bot noise, polluted analytics.
 
 This Worker evaluates incoming requests **before they reach your origin** and applies
 real-time decisions: **Allow**, **Challenge**, or **Block**.
